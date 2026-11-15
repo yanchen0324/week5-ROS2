@@ -1,0 +1,6 @@
+# 0: 直线前进，1: 正弦式前进，2: 方波式前进，3: 暂停
+int32 mode
+---
+bool success
+int32 current_mode
+string message

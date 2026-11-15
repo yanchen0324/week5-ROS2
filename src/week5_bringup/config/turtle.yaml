@@ -1,0 +1,19 @@
+/turtle_controller:
+  ros__parameters:
+    linear_speed: 1.5
+    angular_speed: 1.2
+    wave_period: 4.0
+    boundary_margin: 1.0
+    turn_gain: 3.0
+    manual_timeout: 0.6
+
+/turtle_teleop:
+  ros__parameters:
+    linear_speed: 1.5
+    angular_speed: 1.2
+
+/turtlesim:
+  ros__parameters:
+    background_r: 69
+    background_g: 86
+    background_b: 255

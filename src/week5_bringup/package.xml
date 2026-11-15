@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>week5_bringup</name>
+  <version>0.0.1</version>
+  <description>Launch files and YAML configuration for week 5.</description>
+  <maintainer email="yanchen@example.com">yanchen</maintainer>
+  <license>Apache-2.0</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <exec_depend>launch</exec_depend>
+  <exec_depend>launch_ros</exec_depend>
+  <exec_depend>ament_index_python</exec_depend>
+  <exec_depend>parameter_cpp</exec_depend>
+  <exec_depend>parameter_py</exec_depend>
+  <exec_depend>add_service_cpp</exec_depend>
+  <exec_depend>turtle_control</exec_depend>
+  <exec_depend>turtlesim</exec_depend>
+  <export><build_type>ament_cmake</build_type></export>
+</package>

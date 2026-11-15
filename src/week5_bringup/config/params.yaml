@@ -1,0 +1,8 @@
+# 按题目给出的名称和数据编写；/** 可同时匹配 C++、Python 两个节点。
+/**:
+  ros__parameters:
+    use_sim_time: true
+    frames/odom: odom
+    frames/baselink: base_link
+    frames/lidar: lidar
+    frames/imu: imu
