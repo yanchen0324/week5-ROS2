@@ -1,0 +1,16 @@
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# ROS构建文件夹
+build/
+install/
+log/
+devel/
+
+# 其他
+.DS_Store
+.vscode/
